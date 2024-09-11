@@ -2,7 +2,11 @@
 
 https://github.com/HironKanishka97/my-portfolio
 
-![portfolio-demo](https://github.com/HironKanishka97/my-portfolio/blob/main/readme-assets/demo.mp4)
+
+https://github.com/user-attachments/assets/a58a0d5b-deb1-4b5a-9899-fab3cf3b944e
+
+
+
 ![portfolio-phone](https://github.com/HironKanishka97/my-portfolio/blob/main/readme-assets/mobile-view.png)
 
 I created this portfolio to use as my own and also for anyone who wants it as their portfolio .I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own portfolios. Feel free to customize and modify the theme and components to suit your personal style .
