@@ -2,14 +2,14 @@
 
 https://github.com/HironKanishka97/my-portfolio
 
-![portfolio-demo](https://github.com/HironKanishka97/my-portfolio/readme-assets/demo.mp4)
-![portfolio-phone](https://github.com/HironKanishka97/my-portfolio/readme-assets/mobile-view.png)
+![portfolio-demo](https://github.com/HironKanishka97/my-portfolio/blob/main/readme-assets/demo.mp4)
+![portfolio-phone](https://github.com/HironKanishka97/my-portfolio/blob/main/readme-assets/mobile-view.png)
 
 I created this portfolio to use as my own and also for anyone who wants it as their portfolio .I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own portfolios. Feel free to customize and modify the theme and components to suit your personal style .
 
 ## License and Attribution
 
-The code in this repository is released under the [MIT](https://github.com/HironKanishka97/my-portfolio/readme-assets/LICENSE.txt) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
+The code in this repository is released under the [MIT](https://github.com/HironKanishka97/my-portfolio/blob/main/readme-assets/LICENSE.txt) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
 
 All projects and experiences included in this portfolio are the result of my efforts and creativity. Please refrain from presenting them as your own.
 
@@ -82,7 +82,7 @@ npm run preview
 
 👤 **Hiron Kanishka**
 
-- GitHub: [@shaqdeff](https://linkedin.com/in/hiron-kanishka)
+- GitHub: [@hironkanishka](https://linkedin.com/in/hiron-kanishka)
 - LinkedIn: [Hiron Kanishka](https://www.linkedin.com/in/hiron-kanishka/)
 
 ## Feedback and Contributions
