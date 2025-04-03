@@ -37,6 +37,7 @@ const GetInTouch = () => {
                 <FaInstagram />
               </a>
             </div>
+
     </div>
   );
 };

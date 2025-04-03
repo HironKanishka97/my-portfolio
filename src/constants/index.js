@@ -15,12 +15,14 @@ export const EDUCATION = [
     university: "University Of Colombo School Of Computing",
     description: `Bachelor of Information Technology at UCSC  .`,
     technologies: ["SpringBoot", "React.js", "Angular", "MySql", "PostgreSql"],
+
   },
   {
     year: "2018 - 2022",
     university: "Institute of Engineering Technology",
     description: `National Diploma In Engineering Sciences in Electronic & Communication Engineering`,
     technologies: ["Electronics", "Robotics", "Automation", "Communication Engineeering", "Embedded systems"],
+
   },
 ];
 
@@ -65,6 +67,7 @@ export const PROJECTS = [
     description:
       "Developed a comprehensive Client, Order Process, Inventory and User Management System for HK-Lapstore . The project utilizes Spring Boot for the backend, Angular for the frontend, and Spring Security with JWT Authentication for secure user authentication and authorization. The MySQL database used as the database. ",
     technologies: ["SpringBoot","Spring Security", "Bootstrap","Angular", "MySql"],
+
   },
 ];
 
@@ -76,6 +79,7 @@ export const SOCIAL={
   linkedin:"https://linkedin.com/in/hiron-kanishka",
   github:"https://github.com/HironKanishka97",
   instargram:"https://www.instagram.com/____hiron____",
+
 }
 
 export const navLinks = [
@@ -104,3 +108,4 @@ export const navLinks = [
     title: "Contact",
   },
 ];
+
