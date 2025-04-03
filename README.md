@@ -1,6 +1,6 @@
 # Portfolio Template
 
-[Click Here for Live Preview](https://hiron-kanishka-portfolio.web.app)
+[Click Here for Live Preview](https://hiron-kanishka.netlify.app/)
 
 https://github.com/HironKanishka97/my-portfolio
 
